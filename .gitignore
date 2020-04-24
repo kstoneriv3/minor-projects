@@ -1,6 +1,2 @@
 *pyc
-notebooks/*
-!notebooks/*.ipynb
-data/*
-!data/dictionary.txt
-out/
+.ipynb_checkpoints/

@@ -5,7 +5,8 @@ This repository contains mini projects (such as homework).
 ([IPython Notebook](./projects/cox_process_modulated_by_gaussian_process.ipynb)).
 
 - Efficient estimation of expected value of partial perfect information using the multilevel Monte Carlo method on a toy example
-([IPython Notebook](./projects/evppi_by_mlmc.ipynb)).
+([IPython Notebook](./projects/evppi_by_mlmc.ipynb)). This mini project is for verifying the results of a paper [Decision-making under uncertainty: using MLMC for efficient estimation of EVPPI](https://arxiv.org/abs/1708.05531).
+
 
 - Bayesian logistic regression by Renyi divergence
 ([IPython Notebook](./projects/bayesian_logistic_regression_by_renyi_divergence.ipynb)).
